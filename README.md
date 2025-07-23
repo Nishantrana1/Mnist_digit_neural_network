@@ -54,4 +54,4 @@ Avoid very small or thin digits while drawing.
 
 📜 License
 
-This project is for educational purposes. Feel free to fork and use it!
+This project is for educational purposes. Feel free to fork and use it! and don't forget to give any review
